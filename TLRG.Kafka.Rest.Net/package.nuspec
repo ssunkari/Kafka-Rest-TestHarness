@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd" xmlns:ms="http://schemas.microsoft.com/developer/msbuild/2003" xmlns:str="http://www.w3.org/2005/xpath-functions">
+
+	<metadata>
+
+		<id>Tlrg.Kafka.Rest</id>
+
+		<version>1.0.0.15</version>
+
+		<title/>
+
+		<authors>LateRooms</authors>
+
+		<description>This package is responsible for publishing messages to kafka Rest API using topic</description>
+
+        <dependencies>
+
+              <dependency id="Newtonsoft.Json" version="6.0.5"/>
+              <dependency id="RestSharp" version="105.0.1"/>
+          <!--Any-->
+
+        </dependencies>
+	</metadata>
+	<files>
+		<file src="..\..\build\Tlrg.Kafka.Rest.Net.dll" target="lib"/>
+		<file src="..\..\build\Tlrg.Kafka.Rest.Net.pdb" target="lib"/>
+	</files>
+</package>

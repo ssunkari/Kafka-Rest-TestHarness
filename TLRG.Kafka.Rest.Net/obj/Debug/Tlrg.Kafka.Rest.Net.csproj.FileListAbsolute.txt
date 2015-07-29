@@ -1,0 +1,16 @@
+C:\code\kafka-rest-net\src\TLRG.Kafka.Rest.Net\bin\Debug\Tlrg.Kafka.Rest.Net.dll
+C:\code\kafka-rest-net\src\TLRG.Kafka.Rest.Net\bin\Debug\Tlrg.Kafka.Rest.Net.pdb
+C:\code\kafka-rest-net\src\TLRG.Kafka.Rest.Net\bin\Debug\Newtonsoft.Json.dll
+C:\code\kafka-rest-net\src\TLRG.Kafka.Rest.Net\bin\Debug\RestSharp.dll
+C:\code\kafka-rest-net\src\TLRG.Kafka.Rest.Net\bin\Debug\Newtonsoft.Json.xml
+C:\code\kafka-rest-net\src\TLRG.Kafka.Rest.Net\bin\Debug\RestSharp.xml
+C:\code\kafka-rest-net\src\TLRG.Kafka.Rest.Net\obj\Debug\Tlrg.Kafka.Rest.Net.dll
+C:\code\kafka-rest-net\src\TLRG.Kafka.Rest.Net\obj\Debug\Tlrg.Kafka.Rest.Net.pdb
+C:\code\kafka-rest-net\src\TLRG.Kafka.Rest.Net\obj\Debug\Tlrg.Kafka.Rest.Net.csprojResolveAssemblyReference.cache
+C:\code\Kafka.LongPolling.TestHarness\TLRG.Kafka.Rest.Net\bin\Debug\Tlrg.Kafka.Rest.Net.dll
+C:\code\Kafka.LongPolling.TestHarness\TLRG.Kafka.Rest.Net\bin\Debug\Tlrg.Kafka.Rest.Net.pdb
+C:\code\Kafka.LongPolling.TestHarness\TLRG.Kafka.Rest.Net\obj\Debug\Tlrg.Kafka.Rest.Net.dll
+C:\code\Kafka.LongPolling.TestHarness\TLRG.Kafka.Rest.Net\obj\Debug\Tlrg.Kafka.Rest.Net.pdb
+C:\code\Kafka.LongPolling.TestHarness\TLRG.Kafka.Rest.Net\bin\Debug\Newtonsoft.Json.dll
+C:\code\Kafka.LongPolling.TestHarness\TLRG.Kafka.Rest.Net\bin\Debug\Newtonsoft.Json.xml
+C:\code\Kafka.LongPolling.TestHarness\TLRG.Kafka.Rest.Net\obj\Debug\TLRG.Kafka.Rest.Net.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\code\Kafka.LongPolling.TestHarness\Kafka.LongPolling.TestHarness\bin\Debug\Kafka.LongPolling.TestHarness.dll
+C:\code\Kafka.LongPolling.TestHarness\Kafka.LongPolling.TestHarness\bin\Debug\Kafka.LongPolling.TestHarness.pdb
+C:\code\Kafka.LongPolling.TestHarness\Kafka.LongPolling.TestHarness\bin\Debug\nunit.framework.dll
+C:\code\Kafka.LongPolling.TestHarness\Kafka.LongPolling.TestHarness\bin\Debug\Tlrg.Kafka.Rest.Net.dll
+C:\code\Kafka.LongPolling.TestHarness\Kafka.LongPolling.TestHarness\bin\Debug\RestSharp.dll
+C:\code\Kafka.LongPolling.TestHarness\Kafka.LongPolling.TestHarness\bin\Debug\Newtonsoft.Json.dll
+C:\code\Kafka.LongPolling.TestHarness\Kafka.LongPolling.TestHarness\bin\Debug\Tlrg.Kafka.Rest.Net.pdb
+C:\code\Kafka.LongPolling.TestHarness\Kafka.LongPolling.TestHarness\bin\Debug\nunit.framework.xml
+C:\code\Kafka.LongPolling.TestHarness\Kafka.LongPolling.TestHarness\obj\Debug\Kafka.LongPolling.TestHarness.csprojResolveAssemblyReference.cache
+C:\code\Kafka.LongPolling.TestHarness\Kafka.LongPolling.TestHarness\obj\Debug\Kafka.LongPolling.TestHarness.dll
+C:\code\Kafka.LongPolling.TestHarness\Kafka.LongPolling.TestHarness\obj\Debug\Kafka.LongPolling.TestHarness.pdb
+C:\code\Kafka.LongPolling.TestHarness\Kafka.LongPolling.TestHarness\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kafka.LongPolling.TestHarness", "Kafka.LongPolling.TestHarness\Kafka.LongPolling.TestHarness.csproj", "{623DB830-F0E7-41A4-9A1F-6540DC6F2EA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TLRG.Kafka.Rest.Net", "TLRG.Kafka.Rest.Net\TLRG.Kafka.Rest.Net.csproj", "{E141B8EA-8993-42D3-8DDA-DAF3593BAB2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{623DB830-F0E7-41A4-9A1F-6540DC6F2EA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{623DB830-F0E7-41A4-9A1F-6540DC6F2EA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{623DB830-F0E7-41A4-9A1F-6540DC6F2EA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{623DB830-F0E7-41A4-9A1F-6540DC6F2EA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E141B8EA-8993-42D3-8DDA-DAF3593BAB2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E141B8EA-8993-42D3-8DDA-DAF3593BAB2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E141B8EA-8993-42D3-8DDA-DAF3593BAB2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E141B8EA-8993-42D3-8DDA-DAF3593BAB2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
